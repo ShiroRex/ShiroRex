@@ -1,7 +1,11 @@
-<h1 align="center">Hola, Soy Angel 👋</h1>  
+<h1 align="center">Hola, soy Angel 👋</h1>  
 
 ## 🚀 About Me  
 Soy estudiante de ingeniería en software y actualmente estoy ampliando mis conocimientos en desarrollo front-end y back-end. Me apasiona aprender y construir algo nuevo, innovador y creativo.  
+
+<picture>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+</picture>
 
 ### 📚 Actualmente estoy aprendiendo  
 - [PHP]  
@@ -15,24 +19,32 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 - 🎮 Jugar videojuegos  
 - 🎵 Escuchar música   
 
-📩 Puedes contactarme en: [tuemail@ejemplo.com](angelgabriel9171@gmail.com)  
+📩 Puedes contactarme en: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
 
 ---
 
 ## 🛠️ Habilidades y Tecnologías  
 
-### Lenguajes  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h4>Lenguajes</h4>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </div>
 
-### Otras herramientas  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  <div>
+    <h4>Otras herramientas</h4>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </div>
+</div>
 
 ---
 
 🔗 *Encuéntrame en:*  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Angel 👋</h1>  
+<h1 align="center">Hola, Soy Angel 👋</h1>  
 
 ## 🚀 About Me  
 Soy estudiante de ingeniería en software y actualmente estoy ampliando mis conocimientos en desarrollo front-end y back-end. Me apasiona aprender y construir algo nuevo, innovador y creativo.  

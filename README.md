@@ -15,7 +15,7 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 - 🎮 Jugar videojuegos  
 - 🎵 Escuchar música   
 
-📩 Puedes contactarme en: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+📩 Puedes contactarme en: [tuemail@ejemplo.com](angelgabriel9171@gmail.com)  
 
 ---
 

@@ -19,7 +19,7 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 - 🎮 Jugar videojuegos  
 - 🎵 Escuchar música   
 
-📩 Puedes contactarme en: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
+📩 Puedes contactarme en: [angelgabriel9171@gmail.com](mailto:tuemail@ejemplo.com)  
 
 ---
 
@@ -45,6 +45,5 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 
 🔗 *Encuéntrame en:*  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
 
 

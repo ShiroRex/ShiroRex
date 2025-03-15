@@ -38,6 +38,8 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
   <div>
     <h4>Otras herramientas</h4>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Miro-0061F2?style=for-the-badge&logo=miro&logoColor=white" alt="Miro">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </div>
 </div>
 
@@ -46,5 +48,3 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 🔗 *Encuéntrame en:*  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)  
-
-

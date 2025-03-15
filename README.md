@@ -44,6 +44,7 @@ Soy estudiante de ingeniería en software y actualmente estoy ampliando mis cono
 ---
 
 🔗 *Encuéntrame en:*  
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)  
 
 
